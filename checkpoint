@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dieaigar/PycharmProjects/speechTF/speechNN.model"
+all_model_checkpoint_paths: "/home/dieaigar/PycharmProjects/speechTF/speechNN.model"
